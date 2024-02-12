@@ -1,0 +1,3 @@
+
+12-02-2024 08:37  Method "getAllTasks" was implemented by "user".
+12-02-2024 08:37  Method "findAll" was implemented by "admin".
